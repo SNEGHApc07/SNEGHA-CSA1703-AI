@@ -38,4 +38,8 @@ PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20P
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112924718/235128893-27d7438a-6c62-4e29-a8e3-af736722bd6f.png)
 
+## 8. CALENDER
+PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20PROGRAM/08.%20CALENDER)
+## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/235129638-29e0fc42-48b1-43eb-91da-28177207386f.png)
 
