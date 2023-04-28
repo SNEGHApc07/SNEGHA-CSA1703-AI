@@ -1,0 +1,34 @@
+import calendar
+
+year = int(input("Enter year: "))
+month = int(input("Enter month (1-12): "))
+
+# Use calendar.monthrange to get the number of days in the month
+num_days = calendar.monthrange(year, month)[1]
+
+# Use calendar.month_name to get the name of the month
+month_name = calendar.month_name[month]
+
+# Use calendar.weekday to get the day of the week for the first day of the month
+first_day_of_month = calendar.weekday(year, month, 1)
+
+# Print the calendar header
+print(f"{month_name} {year}")
+print("Mo Tu We Th Fr Sa Su")
+
+# Print the calendar body
+current_day = 1
+for week in range(6):
+    line = ""
+    for day_of_week in range(7):
+        if week == 0 and day_of_week < first_day_of_month:
+            # Print empty spaces for days before the first day of the month
+            line += "   "
+        elif current_day > num_days:
+            # Print empty spaces for days after the last day of the month
+            line += "   "
+        else:
+            # Print the current day
+            line += f"{current_day:2d} "
+            current_day += 1
+    print(line)
