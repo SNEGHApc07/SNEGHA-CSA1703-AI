@@ -1,0 +1,11 @@
+import string
+
+# Define a string with punctuation marks
+input_str = "Hello, World! How are you today?"
+
+# Remove punctuation marks from the string
+output_str = input_str.translate(str.maketrans("", "", string.punctuation))
+
+# Print the original string and the cleaned string
+print("Original string:", input_str)
+print("Cleaned string:", output_str)
