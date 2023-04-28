@@ -18,5 +18,11 @@ PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20P
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112924718/235122651-650ecde4-e786-496c-a7fa-789a1804ad24.png)
 
+## 4.SORT IN ALPHABETIC ORDER
+PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20PROGRAM/04%20.SORT%20IN%20ALPHABETIC%20ORDER)
+## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/235124663-03817a3a-f965-4013-b025-16cd92ea3098.png)
+
+
 
 
