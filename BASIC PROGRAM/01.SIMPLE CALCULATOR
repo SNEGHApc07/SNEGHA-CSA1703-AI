@@ -1,0 +1,23 @@
+print("enter the numbers:")
+a=int(input("a="))
+b=int(input("b="))
+print("enter the value 1 to 4 \n 1.add\n 2.sub\n 3.multiply\n 4.division")
+sh=int(input("sh="))
+if sh==1:
+    c=a+b
+    print(c)
+
+elif sh==2:
+    d=a-b
+    print(d)
+elif sh==3:
+    e=a*b
+    print(e)
+elif sh==4:
+    f=a/b
+    print(f)
+else:
+   "enter valid number"
+
+
+
