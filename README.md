@@ -33,5 +33,9 @@ PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20P
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112924718/235127517-ff890680-1133-4583-8728-fb6078ecdad2.png)
 
+## 7.DIFFERENT SET OPERATIONS
+PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20PROGRAM/07.%20%20DIFFERENT%20SET%20OPERATIONS)
+## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/235128893-27d7438a-6c62-4e29-a8e3-af736722bd6f.png)
 
 
