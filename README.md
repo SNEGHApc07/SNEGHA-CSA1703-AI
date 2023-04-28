@@ -43,3 +43,8 @@ PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20P
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112924718/235129638-29e0fc42-48b1-43eb-91da-28177207386f.png)
 
+## 9.REMOVE PUCHUVATION FROM STRING
+PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20PROGRAM/09.%20REMOVE%20PUNCHUVATIONSS%20FROM%20STRING)
+## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/235130415-ff7cb595-f8a6-4207-9777-347291d10f50.png)
+
