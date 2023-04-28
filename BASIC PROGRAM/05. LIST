@@ -1,0 +1,29 @@
+# Define a nested list
+nested_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+# Print the length of the nested list
+print("Length of the nested list:", len(nested_list))
+
+# Concatenate the nested list with another list
+new_list = [10, 11, 12]
+concatenated_list = nested_list + [new_list]
+print("Concatenated list:", concatenated_list)
+
+# Check if a specific element is a member of the nested list
+if 5 in nested_list:
+    print("5 is a member of the nested list")
+else:
+    print("5 is not a member of the nested list")
+
+# Iterate over the nested list and print each element
+print("Elements of the nested list:")
+for sublist in nested_list:
+    for item in sublist:
+        print(item)
+
+# Access a specific element of the nested list using indexing
+print("Element at row 1, column 2:", nested_list[1][2])
+
+# Slice the nested list to get a subset of elements
+sliced_list = nested_list[0][1:] + nested_list[1][1:]
+print("Sliced list:", sliced_list)
