@@ -28,4 +28,10 @@ PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20P
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112924718/235125950-c3eaf16d-aa67-42fd-ba9a-a0cfc88f4200.png)
 
+## 6.LIST METHODS
+PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20PROGRAM/06.%20LIIST%20METHODS(ADD%2CAPPEND%2CEXTENF%2CDELETE)
+## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/235127517-ff890680-1133-4583-8728-fb6078ecdad2.png)
+
+
 
