@@ -23,6 +23,9 @@ PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20P
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112924718/235124663-03817a3a-f965-4013-b025-16cd92ea3098.png)
 
-
+## 5. LIST
+PROGRAM LINK(https://github.com/SNEGHApc07/SNEGHA-CSA1703-AI/blob/main/BASIC%20PROGRAM/05.%20LIST)
+## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/235125950-c3eaf16d-aa67-42fd-ba9a-a0cfc88f4200.png)
 
 
