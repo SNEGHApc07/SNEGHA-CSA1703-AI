@@ -1,0 +1,22 @@
+# Initialize a list
+my_list = [1, 2, 3, 4, 5]
+
+# Adding an element to the list using the "+" operator
+my_list = my_list + [6]
+print("List after adding an element using the '+' operator:", my_list)
+
+# Appending an element to the list using the "append" method
+my_list.append(7)
+print("List after appending an element using the 'append' method:", my_list)
+
+# Extending a list using the "extend" method
+my_list.extend([8, 9])
+print("List after extending it using the 'extend' method:", my_list)
+
+# Deleting an element from the list using the "del" statement
+del my_list[0]
+print("List after deleting the first element using the 'del' statement:", my_list)
+
+# Deleting an element from the list using the "remove" method
+my_list.remove(2)
+print("List after deleting the second element using the 'remove' method:", my_list)
